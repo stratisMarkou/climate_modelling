@@ -5,7 +5,9 @@
   1. Install dependencies (tensorflow and wxPython)
      wxPython can be obtained from https://www.wxpython.org/pages/downloads/
        
-       '''pip install -U wxPython'''
+       '''
+       pip install -U wxPython
+       '''
        
        should also work
        
