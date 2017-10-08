@@ -11,9 +11,8 @@
      should do the trick.
        
   2. Get data in .nc files
-  3. Run gui.py, select .nc files and optimize!
-  
-
+  3. Run gui.py
+  4. Select data: click on '...', browse to the selected .nc file and then select the appropriate variable name, which is 'T2' for observational data and 'tas' for model data.
 
 - gp folder contains gaussian process models. To run:
 
