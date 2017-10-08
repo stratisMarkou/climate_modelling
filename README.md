@@ -11,6 +11,6 @@
   1. Get data in .nc files
   2. Run gui.py and select files
 
-'''
+```
 pip install -U wxPython
-'''
+```
