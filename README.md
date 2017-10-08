@@ -27,4 +27,4 @@
      
   2. Run! gp_positional_temporal.py models the temperature at various locations, and gp_temporal.py models the temperature at      a single location.
   
-- basemap_example contains a single example of using Basemap to combine country borders with a heat map.
+- basemap_example folder contains a single example of using Basemap to combine country borders with a heat map.
